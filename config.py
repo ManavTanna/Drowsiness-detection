@@ -1,4 +1,0 @@
-sid = "ACf917ccd2739f5fb817f81d2530cdcade"
-token= "9bc8b27249f195783053c1f9a0134fa4"
-fNumber="+13305744384"
-tNumber= "+917506957911"
